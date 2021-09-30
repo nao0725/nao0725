@@ -8,6 +8,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nao0725&theme=onedark
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+[![](https://raw.githubusercontent.com/nao0725/nao0725/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 #### My Qiita Infomation
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nao0725/posts.svg)](http://qiita.com/nao0725)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nao0725/contributions.svg)](http://qiita.com/nao0725)
